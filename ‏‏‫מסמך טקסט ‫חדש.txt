@@ -1,9 +1,0 @@
-<<<<<<< HEAD
-cc
-bb
-dd
-aa
-ee
-=======
-guy
->>>>>>> origin/guy
